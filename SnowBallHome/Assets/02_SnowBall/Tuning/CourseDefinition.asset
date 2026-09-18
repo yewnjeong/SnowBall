@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 98fd47a14a3ca4348b5380b4f2591404, type: 3}
+  m_Name: CourseDefinition
+  m_EditorClassIdentifier: Assembly-CSharp::SnowBall.CourseDefinition
+  stages:
+  - stageName: "\u2460 \uB208\uBC2D"
+    length: 60
+    slopeDegrees: 6
+    width: 7
+    turnDegrees: 0
+    checkpointCount: 1
+    treeCount: 0
+    rockCount: 0
+    icePatchCount: 0
+    pondCount: 0
+    dogCount: 0
+    villageKidCount: 0
+    gustZone: 0
+  - stageName: "\u2461 \uC232"
+    length: 90
+    slopeDegrees: 14
+    width: 4.5
+    turnDegrees: 70
+    checkpointCount: 2
+    treeCount: 14
+    rockCount: 2
+    icePatchCount: 0
+    pondCount: 0
+    dogCount: 0
+    villageKidCount: 0
+    gustZone: 0
+  - stageName: "\u2462 \uC5BC\uC5B4\uBD99\uC740 \uACC4\uACE1"
+    length: 80
+    slopeDegrees: 11
+    width: 6
+    turnDegrees: 35
+    checkpointCount: 3
+    treeCount: 0
+    rockCount: 3
+    icePatchCount: 7
+    pondCount: 2
+    dogCount: 0
+    villageKidCount: 0
+    gustZone: 0
+  - stageName: "\u2463 \uAC15\uC544\uC9C0 \uAD6C\uAC04"
+    length: 50
+    slopeDegrees: 9
+    width: 7
+    turnDegrees: 20
+    checkpointCount: 1
+    treeCount: 3
+    rockCount: 0
+    icePatchCount: 0
+    pondCount: 0
+    dogCount: 1
+    villageKidCount: 0
+    gustZone: 0
+  - stageName: "\u2464 \uB9C8\uC744"
+    length: 70
+    slopeDegrees: 12
+    width: 6.5
+    turnDegrees: 40
+    checkpointCount: 2
+    treeCount: 0
+    rockCount: 4
+    icePatchCount: 0
+    pondCount: 0
+    dogCount: 0
+    villageKidCount: 4
+    gustZone: 0
+  - stageName: "\u2465 \uB9C8\uC9C0\uB9C9 \uC0B0\uAE38"
+    length: 120
+    slopeDegrees: 20
+    width: 4.5
+    turnDegrees: 90
+    checkpointCount: 1
+    treeCount: 8
+    rockCount: 3
+    icePatchCount: 5
+    pondCount: 1
+    dogCount: 0
+    villageKidCount: 0
+    gustZone: 1
+  segmentLength: 6
+  floorThickness: 0.6
+  railHeight: 0.7
+  railWidth: 0.35
+  randomSeed: 20260918
